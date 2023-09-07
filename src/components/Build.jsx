@@ -1,6 +1,6 @@
 import React from "react";
 import Section from "./Section";
-import Khatey from "./images/team/Jap.png";
+import Khatey from "@/images/team/Jap.png";
 import Blockquote from "./Blockquote";
 
 const Build = () => {
